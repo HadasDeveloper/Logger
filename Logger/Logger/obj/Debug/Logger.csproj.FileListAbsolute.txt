@@ -1,0 +1,5 @@
+D:\Alla\Develupment\Logger\Logger\Logger\bin\Debug\Logger.pdb
+D:\Alla\Develupment\Logger\Logger\Logger\obj\Debug\ResolveAssemblyReference.cache
+D:\Alla\Develupment\Logger\Logger\Logger\obj\Debug\Logger.pdb
+D:\Alla\Develupment\Logger\Logger\Logger\bin\Debug\Logger.dll
+D:\Alla\Develupment\Logger\Logger\Logger\obj\Debug\Logger.dll
